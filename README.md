@@ -18,8 +18,8 @@ Concevoir un modèle de prédiction de la progression de la maladie (variable ci
 - Enjeu critique : 
 Même si la cible est continue, une erreur de prédiction n’a pas le même impact clinique selon qu’elle sous‑estime ou surestime la gravité de la maladie.​
 
-- Une surestimation de la progression (prédire une maladie plus grave qu’elle ne l’est vraiment) peut entraîner des traitements plus lourds, des effets secondaires inutiles et des coûts supplémentaires pour le système de santé.
-- Une sous‑estimation de la progression (prédire une maladie moins avancée qu’en réalité) peut retarder la mise en place d’un traitement adapté, aggravant le pronostic du patient et augmentant le risque de complications sévères.
+ Une surestimation de la progression (prédire une maladie plus grave qu’elle ne l’est vraiment) peut entraîner des traitements plus lourds, des effets secondaires inutiles et des coûts supplémentaires pour le système de santé.
+ Une sous‑estimation de la progression (prédire une maladie moins avancée qu’en réalité) peut retarder la mise en place d’un traitement adapté, aggravant le pronostic du patient et augmentant le risque de complications sévères.
 
 ### Les Données (L'Input)
 Dans ce projet, les données proviennent d’un dataset médical réel décrivant la progression d’une maladie chronique à partir de mesures cliniques et biologiques de patients. Le jeu de données contient 442 observations et 10 variables explicatives normalisées, plus une variable cible continue représentant une mesure de progression de la maladie.
